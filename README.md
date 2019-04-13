@@ -16,7 +16,7 @@ Pygame을 이용한 작업일 경우 Pygame을 추가적으로 다운받아야 �
   
 ### Computer_Dont_get_sick  
 
-![Computer_dont_get_sick](./181213_Computer_Dont_get_sick/img/1.jpg)  
+![Computer_dont_get_sick](./181213_Computer_Dont_get_sick/img/2.jpg)  
 구동되는 모습은 [Youtube](https://youtu.be/ob0pqhyWKew)에서 확인하실 수 있습니다.  
 You can see it running on [Youtube](https://youtu.be/ob0pqhyWKew)  
 
